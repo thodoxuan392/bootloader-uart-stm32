@@ -1,0 +1,6 @@
+[submodule "Core/Lib/utils"]
+	path = Core/Lib/utils
+	url = git@github.com:thodoxuan392/utils.git
+[submodule "Core/Lib/DRV8825"]
+	path = Core/Lib/DRV8825
+	url = git@github.com:thodoxuan392/DRV8825.git
